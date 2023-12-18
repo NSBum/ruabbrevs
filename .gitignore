@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+.idea
+__pycache__/
+ruabbrevs.sqlite3
+test.txt
